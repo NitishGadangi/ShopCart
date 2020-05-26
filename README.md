@@ -29,6 +29,9 @@ A funtime project with a dump of all my MERN stack web development skills 😉.
 
 [**bootstrap**](https://getbootstrap.com/) - The most popular HTML, CSS, and JS library in the world.
 
+### Project Architecture
+![DatabaseTree](https://github.com/NitishGadangi/ShopCart/blob/master/architecture.jpg?raw=true)
+
 ### Want More..? 🤔
 
 > Further layman stuff and preview will be added soon. Untill then
