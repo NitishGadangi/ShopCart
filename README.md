@@ -1,5 +1,5 @@
 # ShopCart
-A funtime project with a dump of all my MERN stack web development skills 😉.
+A funtime project with a dump of all my MERN stack web development skills 😉. 
 
 ## Nerd Stuff
 ### Backend
